@@ -3,6 +3,9 @@
 #pragma once
 
 #include <ofSerial.h> 
+#include <string.h>
+
+using namespace std;
 
 class ofxDmx {
 public:
